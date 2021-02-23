@@ -11,42 +11,42 @@
       "name": "Grandis",
       "description": "#FFD384",
       "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/e8/3235659987_e8203a43ed_m.jpg"
-    }
-    {
-        "id": "3",
-        "name": "Portafino",
-        "description": "#fff9b0",
-        "image":  "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/0e/6337968479_0e779486da_m.jpg"
     },
     {
-        "id": "4",
-        "name": "Carnation Pink",
-        "description": "#ffaec0",
-        "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/d0/5348877082_d0340acdbc_m.jpg"
+      "id": "3",
+      "name": "Portafino",
+      "description": "#fff9b0",
+      "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/0e/6337968479_0e779486da_m.jpg"
     },
     {
-        "id": "5",
-        "name": "Summer Green",
-        "description": "#99BBAD",
-        "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/f9/477167128_f9ca5e6b4a_m.jpg"
+      "id": "4",
+      "name": "Carnation Pink",
+      "description": "#ffaec0",
+      "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/d0/5348877082_d0340acdbc_m.jpg"
     },
     {
-        "id": "6",
-        "name": "Raffia",
-        "description": "#EBD8B7",
-        "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/e6/1535066237_e6a6d58ad7_m.jpg"
+      "id": "5",
+      "name": "Summer Green",
+      "description": "#99BBAD",
+      "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/f9/477167128_f9ca5e6b4a_m.jpg"
     },
     {
-        "id": "7",
-        "name": "Rodeo Dust",
-        "description": "#c6a9a3",
-        "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/7d/2722482449_7d6e09eb4f_m.jpg"
+      "id": "6",
+      "name": "Raffia",
+      "description": "#EBD8B7",
+      "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/e6/1535066237_e6a6d58ad7_m.jpg"
     },
     {
-        "id": "8",
-        "name": "Mountbatten Pink",
-        "description": "#9A8194",
-        "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/84/7540806192_84e2ce82de_m.jpg"
+      "id": "7",
+      "name": "Rodeo Dust",
+      "description": "#c6a9a3",
+      "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/7d/2722482449_7d6e09eb4f_m.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Mountbatten Pink",
+      "description": "#9A8194",
+      "image": "https://img.tineye.com/flickr-images/?filepath=labs-flickr-public/images/84/7540806192_84e2ce82de_m.jpg"
     }
   ]
 }
